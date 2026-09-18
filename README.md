@@ -55,8 +55,8 @@ I focus on building practical, database-driven applications with **C#**, **.NET 
 
 ## Contact
 
-- LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- phone: [09214423079](tel:+989214423079)
+- Email: [hosseinmirzahasani3@gmail.com](mailto:hosseinmirzahasani3@gmail.com)
 
 ---
 
