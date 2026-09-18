@@ -38,13 +38,12 @@ I focus on building practical, database-driven applications with **C#**, **.NET 
 
 ## Featured Projects
 
-> Replace the placeholders below with links to your best real repositories. Aim to include a short description, the main technologies, and a screenshot or demo when available.
-
-| Project | Description | Tech |
+| Project | Description | Status |
 | --- | --- | --- |
-| [Project Name](https://github.com/Hossein1386-coder/REPOSITORY-NAME) | A short, outcome-focused description of the project. | C#, .NET Framework, SQL Server |
-| [Project Name](https://github.com/Hossein1386-coder/REPOSITORY-NAME) | A short, outcome-focused description of the project. | C#, ADO.NET, SQL Server |
-| [Project Name](https://github.com/Hossein1386-coder/REPOSITORY-NAME) | A short, outcome-focused description of the project. | Add the relevant technologies |
+| [zedfun.ir](https://zedfun.ir) | Website project | Live |
+| [mechaniclnd.ir](https://mechaniclnd.ir) | Website project | Live |
+| [honartaneh.ir](https://honartaneh.ir) | Website project | Live |
+| [pardistt.ir](https://pardistt.ir) | Website project | In progress |
 
 ## GitHub Activity
 
